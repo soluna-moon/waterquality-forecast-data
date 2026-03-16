@@ -1,5 +1,9 @@
 # Water quality Analysis & Forecast
 *The project:* Interactive dashboard for analyzing and predicting water quality in different cities.
+
+## Demo
+
+![App Screenshot](screenshots streamlit)
 ## Description
 The project allows you to:
 - Upload CSV with water quality data
