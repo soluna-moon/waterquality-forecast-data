@@ -3,7 +3,8 @@
 
 ## Demo
 
-![App Screenshot](screenshots streamlit)
+![App Screenshot](screenshots.streamlit)
+
 ## Description
 The project allows you to:
 - Upload CSV with water quality data
